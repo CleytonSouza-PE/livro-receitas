@@ -2,6 +2,5 @@
 
 Olá! Bem vindos ao meu livro de receitas!
 
- - Strogonoff de Frango
-        
+ - Strogonoff de Frango     
  - Bolo de Cenoura
