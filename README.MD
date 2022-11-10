@@ -3,7 +3,7 @@
 Olá! Bem vindos ao meu livro de receitas!
 
 - Strogonoff de Frango
-- Pavê
+- Pudim de Leite
 - Bolo de Morango
 - Bolo de Milho
 - Bolo de Cenoura
