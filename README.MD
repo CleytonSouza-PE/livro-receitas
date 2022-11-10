@@ -5,7 +5,8 @@ Olá! Bem vindos ao meu livro de receitas!
 - Strogonoff de Frango
 - Pavê
 - Pudim de Leite
-- Pé de mulequ
+- Pé de muleque
+- Pamonha
 - Bolo de Morango
 - Bolo de Milho
 - Bolo de Cenoura
