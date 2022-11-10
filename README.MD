@@ -3,7 +3,7 @@
 Olá! Bem vindos ao meu livro de receitas!
 
 - Strogonoff de Frango
-- Pavê
+- Pavê de biscoito
 - Pudim de Leite
 - Pé de muleque
 - Pamonha
