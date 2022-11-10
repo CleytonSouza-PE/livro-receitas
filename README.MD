@@ -3,6 +3,7 @@
 Olá! Bem vindos ao meu livro de receitas!
 
 - Strogonoff de Frango
+- Mouse de Limáo
 - Pudim
 - Pé de muleque
 - Pamonha
